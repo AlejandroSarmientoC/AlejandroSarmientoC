@@ -3,7 +3,6 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **basarmiento@espe.edu.ec**
 
-
 <p align="left">
 </p>
 
