@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">Student of software engineering at the Universidad de las Fuerzas Armadas "ESPE" (Armed Forces University) from Ecuador.</h3>
-
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **basarmiento@espe.edu.ec**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
