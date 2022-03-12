@@ -10,7 +10,6 @@
 
 ### Projects and Dev Stuffs:
 
-
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
